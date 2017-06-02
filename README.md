@@ -6,3 +6,5 @@ This is the readme file. It contains information to be read.
 This is a new line. Seeing this line means GitKraken has pushed to GitHub successfully.
 
 This is a test of Git-GUI pushing
+
+Checking GitKraken push
